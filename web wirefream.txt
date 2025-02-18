@@ -1,0 +1,23 @@
+Page: **Home**
+ - Navbar
+ - Hero Header Section: Introduction to the AI chatbot development agency, highlighting key benefits of AI customer care service for businesses.
+ - Features List Section: List of key features of the AI chatbot services, such as 24/7 availability, personalized customer interactions, and efficiency.
+ - How It Works Section: Step-by-step explanation of how the AI chatbot service works, from implementation to daily operations.
+ - Benefits Section: Detailed list of the benefits businesses can gain from adopting AI customer care services, such as increased customer satisfaction and reduced operational costs.
+ - Testimonial Section: Customer testimonials and success stories showcasing the effectiveness of the AI chatbot service.
+ - Contact Section: Encourage visitors to get in touch for more information or to request a demo of the AI chatbot service.
+ - Footer
+
+Sub-pages: About Us, Services, Blog
+
+
+Page: **About Us**
+
+Page: **Services**
+
+Page: **Blog**
+
+Sub-pages: Blog Post
+
+
+Page: **Blog Post**
