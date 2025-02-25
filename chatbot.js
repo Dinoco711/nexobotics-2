@@ -1,6 +1,6 @@
 // Chatbot Widget Implementation
 class ChatbotWidget {
-    constructor(serverUrl = 'https://nexobotics-chatbot-2.onrender.com/chat') {
+    constructor(serverUrl = 'https://groq-llama-commercial.onrender.com/chat') {
         this.serverUrl = serverUrl;
         this.initialize();
     }
