@@ -1,6 +1,6 @@
 // Chatbot Widget Implementation
 class ChatbotWidget {
-    constructor(serverUrl = 'https://groq-llama-commercial.onrender.com/chat') {
+    constructor(serverUrl = 'https://groq-vercel-22.vercel.app/chat') {
         this.serverUrl = serverUrl;
         this.initialize();
     }
