@@ -11,7 +11,7 @@ class ChatbotWidget {
         this.attachEventListeners();
         // Add initial greeting
         setTimeout(() => {
-            this.addMessage('Hello! How can I assist you today?', 'user');
+            this.addMessage('Hello! How can I assist you today?', 'bot');
         }, 500);
     }
 
