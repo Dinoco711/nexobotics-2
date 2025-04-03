@@ -1,6 +1,6 @@
 // Chatbot Widget Implementation
 class ChatbotWidget {
-    constructor(serverUrl = 'https://7c4c-34-56-77-123.ngrok-free.app/chat') {
+    constructor(serverUrl = 'https://gemini-rag-1.onrender.com/chat') {
         this.serverUrl = serverUrl;
         this.initialize();
     }
