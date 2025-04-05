@@ -1,5 +1,5 @@
 class ChatbotWidget {
-    constructor(serverUrl = 'https://gemini-rag-1.onrender.com/chat') {
+    constructor(serverUrl = 'https://rag-cursor.onrender.com/chat') {
         this.serverUrl = serverUrl;
         this.isOpen = false;
         this.messages = [];
