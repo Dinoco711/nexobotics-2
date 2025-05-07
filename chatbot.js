@@ -1,5 +1,5 @@
 class ChatbotWidget {
-    constructor(serverUrl = 'https://rag-cursor.onrender.com/chat') {
+    constructor(serverUrl = 'pdf-rag-1-production.up.railway.app/chat') {
         this.serverUrl = serverUrl;
         this.isOpen = false;
         this.messages = [];
