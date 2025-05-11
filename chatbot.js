@@ -1,5 +1,5 @@
 class ChatbotWidget {
-    constructor(serverUrl = 'pdf-rag-1-production.up.railway.app/chat') {
+    constructor(serverUrl = 'https://pdf-rag-1-production.up.railway.app/chat') {
         this.serverUrl = serverUrl;
         this.isOpen = false;
         this.messages = [];
