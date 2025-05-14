@@ -20,6 +20,10 @@ class ChatbotWidget {
         this.init();
     }
 
+        generateSessionId() {
+        return 'session_' + Date.now() + '_' + Math.random().toString(36).substring(2, 15);
+    }
+
     loadMarkedJS() {
         if (!document.querySelector('script[src*="marked.min.js"]')) {
             const script = document.createElement('script');
