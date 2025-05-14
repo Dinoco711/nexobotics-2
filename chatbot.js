@@ -1,5 +1,5 @@
 class ChatbotWidget {
-    constructor(serverUrl = 'https://pdf-rag-1-production.up.railway.app/chat') {
+    constructor(serverUrl = 'https://n8n-onrender-q9s3.onrender.com/webhook/chatbot') {
         this.serverUrl = serverUrl;
         this.isOpen = false;
         this.messages = [];
