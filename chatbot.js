@@ -1,5 +1,5 @@
 class ChatbotWidget {
-    constructor(serverUrl = 'https://n8n-onrender-q9s3.onrender.com/webhook/chatbot') {
+    constructor(serverUrl = 'https://n8n-onrender-q9s3.onrender.com/webhook-test/chatbot') {
         this.serverUrl = serverUrl;
         this.isOpen = false;
         this.messages = [];
